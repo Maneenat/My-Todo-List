@@ -2,7 +2,7 @@
 รหัสนักศึกษา (Student ID):
 ชื่อแอป (App Name):
 Framework ที่ใช้ (Framework Used): Flutter / React Native / อื่น ๆ
-ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here]
+ลิงก์ GitHub Repository: [https://github.com/Maneenat/My-Todo-List/blob/main/README.md]
 ลิงก์ไฟล์ติดตั้ง (APK/IPA): [ใส่ลิงก์ที่นี่ | Insert link here]
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
