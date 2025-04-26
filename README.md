@@ -1,6 +1,6 @@
-ชื่อ - นามสกุล (Full Name):
-รหัสนักศึกษา (Student ID):
-ชื่อแอป (App Name):
+ชื่อ - นามสกุล (Full Name): Maneenat Wantanasri
+รหัสนักศึกษา (Student ID): 6631503035
+ชื่อแอป (App Name): My Todo List
 Framework ที่ใช้ (Framework Used): Flutter / React Native / อื่น ๆ
 ลิงก์ GitHub Repository: [https://github.com/Maneenat/My-Todo-List/blob/main/README.md]
 ลิงก์ไฟล์ติดตั้ง (APK/IPA): [ใส่ลิงก์ที่นี่ | Insert link here]
@@ -19,7 +19,7 @@ Persona 2:
 - ชื่อ: แนน  
 - อายุ: 21 ปี  
 - อาชีพ: นักศึกษาฝึกงาน  
-- ความต้องการ: ต้องการเพิ่มประสิทธิภาพการทำงานให้เป้าหมายชัดเจนและทำงานได้ตรงจุด
+- ความต้องการ: ต้องการเพิ่มประสิทธิภาพการทำงาน โดยการตั้งเป้าหมายชัดเจนและทำงานได้ตรงจุด
 1.2 เป้าหมายของแอป | My Todo List
 ตัวอย่าง (Example):
 
