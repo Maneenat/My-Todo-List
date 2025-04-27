@@ -39,7 +39,7 @@ Persona 2:
 
 
 1.4 การไหลของผู้ใช้งาน | User Flow Open App  > Type information in Add Task > Click on the information we added > 
-Enter information> Click Completed
+Enter information in Task Details > Click Completed
 
 
 2. การพัฒนาแอป | App Implementation (4 คะแนน / 4 pts)
